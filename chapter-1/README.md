@@ -1,9 +1,22 @@
-Lab: Source Code Management with Github
+Individual lab work for code managemnent
 
-----------------------------------------------------
-Github and Cloud9 setup using Personal Access Token:
------------------------------------------------------ 
-1. Login Github and Create a repository
+Individual Information:
+Susmitha Abbu
+
+
+GITHUB URL:
+https://github.com/Susmitha1319/spring-CIS5755.git
+
+
+Individual work:
+The first python project, word document,second python project and readme file is done by myself(susmitha Abbu).
+
+
+Project Introduction:
+I created a project that synchronises the files from Github to cloud9 and cloud9 to Github. I have created two python files and one readme file.
+Major Steps:
+1. create a stack in aws and login to Github
+2. Github and Create a repository
 2. get familiar with account profile --> settings -->Developer Settings -->Personal Access Tokens 
 3. Click "Generate New Token" 
    a. Provide a Note such as "CIS5755"
